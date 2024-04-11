@@ -191,4 +191,4 @@ pyrightconfig.json
 
 models/
 
-*.dot
+.dot
